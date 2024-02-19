@@ -23,3 +23,15 @@ Open Connector, het platform voorheen bekend als Common Gateway, vertegenwoordig
 
 Bent u klaar om de manier waarop uw overheidsinstantie gegevens uitwisselt en integreert te transformeren? Neem vandaag nog contact op met het Open Connector-team om te bespreken hoe ons platform uw specifieke behoeften kan ondersteunen en uw organisatie naar een hoger niveau van connectiviteit en samenwerking kan tillen.
 ctor (voorheen Common Gateway) biedt een beknopt maar uitgebreid overzicht van het platform, benadrukkend hoe het de uitwisseling van gegevens en systeemintegratie binnen de overheid kan verbeteren.
+
+## Bijdragen
+
+Bijdragen aan Open Connector is welkom! Of het nu gaat om het rapporteren van een bug, het voorstellen van een nieuwe feature, of het indienen van code wijzigingen, bekijk onze [CONTRIBUTING.md](CONTRIBUTING.md) voor meer informatie over hoe u kunt bijdragen.
+
+## Licentie
+
+Open Index zij uitgegeven onder een EUPL 1.2 licentie. Zie het [LICENSE.md](LICENSE.md) bestand in onze GitHub repository voor meer details.
+
+## Contact
+
+Voor meer informatie over Open Index en hoe u het kunt inzetten binnen uw organisatie, neem contact met ons op via [info@conduction.nl](mailto:info@conduction.nl).
