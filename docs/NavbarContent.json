@@ -11,19 +11,6 @@
     }
   },
   {
-    "label": "Services",
-    "type": "internalMarkdown",
-    "current": {
-      "pathname": "/Docs/CONTRIBUTING"
-    },
-    "handleClick": {
-      "internalMarkdown": {
-        "directoryName": "Docs",
-        "fileName": "CONTRIBUTING"
-      }
-    }
-  },
-  {
     "label": "Handleidingen",
     "current": {
       "pathname": "/Handleidingen"
@@ -43,15 +30,15 @@
         }
       },
       {
-        "label": "Architectuur",
+        "label": "Kosten",
         "type": "internalMarkdown",
         "current": {
-          "pathname": "/Handleidingen/Architectuur"
+          "pathname": "/Handleidingen/Kosten"
         },
         "handleClick": {
           "internalMarkdown": {
             "directoryName": "Handleidingen",
-            "fileName": "Architectuur"
+            "fileName": "Kosten"
           }
         }
       },
@@ -65,32 +52,6 @@
           "internalMarkdown": {
             "directoryName": "Handleidingen",
             "fileName": "Features"
-          }
-        }
-      },
-      {
-        "label": "Roadmap",
-        "type": "internalMarkdown",
-        "current": {
-          "pathname": "/Handleidingen/Features"
-        },
-        "handleClick": {
-          "internalMarkdown": {
-            "directoryName": "Handleidingen",
-            "fileName": "Features"
-          }
-        }
-      },
-      {
-        "label": "Tutorial",
-        "type": "internalMarkdown",
-        "current": {
-          "pathname": "/Handleidingen/Testen"
-        },
-        "handleClick": {
-          "internalMarkdown": {
-            "directoryName": "Handleidingen",
-            "fileName": "Testen"
           }
         }
       }
